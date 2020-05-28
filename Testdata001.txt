@@ -1,901 +1,133 @@
-
-Modified by Ram Rajesh for Git testing
-
-
- Chamber Temperature value = 15
- Chamber Temperature value = 16
- Chamber Temperature value = 16
- Chamber Temperature value = 17
- Chamber Temperature value = 18
- 
- Chamber Temperature value = 20
- Chamber Temperature value = 21
- Chamber Temperature value = 23
- Chamber Temperature value = 25
- Chamber Temperature value = 27
- 
- Chamber Temperature value = 29
- Chamber Temperature value = 31
- Chamber Temperature value = 33
- Chamber Temperature value = 35
- Chamber Temperature value = 38
- 
- Chamber Temperature value = 39
- Chamber Temperature value = 42
- Chamber Temperature value = 44
- Chamber Temperature value = 47
- Chamber Temperature value = 49
- 
- Chamber Temperature value = 52
- Chamber Temperature value = 54
- Chamber Temperature value = 57
- Chamber Temperature value = 59
- Chamber Temperature value = 62
- 
- Chamber Temperature value = 65
- Chamber Temperature value = 67
- Chamber Temperature value = 70
- Chamber Temperature value = 73
- Chamber Temperature value = 76
- 
- Chamber Temperature value = 79
- Chamber Temperature value = 81
- Chamber Temperature value = 84
- Chamber Temperature value = 87
- Chamber Temperature value = 90
- 
- Chamber Temperature value = 92
- Chamber Temperature value = 95
- Chamber Temperature value = 99
- Chamber Temperature value = 101
- Chamber Temperature value = 104
- 
- 
- Chamber Temperature value = 107
- Chamber Temperature value = 110
- Chamber Temperature value = 113
- Chamber Temperature value = 117
- Chamber Temperature value = 119
- 
- Chamber Temperature value = 121
- Chamber Temperature value = 125
- Chamber Temperature value = 128
- Chamber Temperature value = 131
- Chamber Temperature value = 134
- 
- Chamber Temperature value = 137
- Chamber Temperature value = 140
- Chamber Temperature value = 143
- Chamber Temperature value = 146
- Chamber Temperature value = 149
- 
- Chamber Temperature value = 152
- Chamber Temperature value = 155
- Chamber Temperature value = 158
- Chamber Temperature value = 162
- Chamber Temperature value = 165
- 
- 
- Chamber Temperature value = 167
- Chamber Temperature value = 171
- Chamber Temperature value = 173
- Chamber Temperature value = 177
- Chamber Temperature value = 180
- 
- Chamber Temperature value = 183
- Chamber Temperature value = 186
- Chamber Temperature value = 189
- Chamber Temperature value = 192
- Chamber Temperature value = 195
- 
- Chamber Temperature value = 198
- Chamber Temperature value = 202
- Chamber Temperature value = 204
- Chamber Temperature value = 207
- Chamber Temperature value = 210
- 
- Chamber Temperature value = 213
- Chamber Temperature value = 216
- Chamber Temperature value = 219
- Chamber Temperature value = 222
- Chamber Temperature value = 225
- 
- 
- Chamber Temperature value = 228
- Chamber Temperature value = 231
- Chamber Temperature value = 234
- Chamber Temperature value = 237
- Chamber Temperature value = 240
- 
- Chamber Temperature value = 242
- Chamber Temperature value = 245
- Chamber Temperature value = 248
- Chamber Temperature value = 251
- Chamber Temperature value = 259
- 
- Chamber Temperature value = 261
- Chamber Temperature value = 264
- Chamber Temperature value = 266
- Chamber Temperature value = 267
- Chamber Temperature value = 269
- 
- Chamber Temperature value = 270
- Chamber Temperature value = 272
- Chamber Temperature value = 273
- Chamber Temperature value = 274
- Chamber Temperature value = 275
- 
- 
- Chamber Temperature value = 276
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- Chamber Temperature value = 278
- 
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- 
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- Chamber Temperature value = 279
- Chamber Temperature value = 278
- Chamber Temperature value = 277
- 
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- Chamber Temperature value = 276
- 
- 
- Chamber Temperature value = 276
- Chamber Temperature value = 276
- Chamber Temperature value = 275
- Chamber Temperature value = 274
- Chamber Temperature value = 274
- 
- Chamber Temperature value = 274
- Chamber Temperature value = 273
- Chamber Temperature value = 273
- Chamber Temperature value = 272
- Chamber Temperature value = 271
- 
- Chamber Temperature value = 271
- Chamber Temperature value = 270
- Chamber Temperature value = 270
- Chamber Temperature value = 269
- Chamber Temperature value = 268
- 
- Chamber Temperature value = 268
- Chamber Temperature value = 267
- Chamber Temperature value = 266
- Chamber Temperature value = 266
- Chamber Temperature value = 265
- 
- 
- Chamber Temperature value = 264
- Chamber Temperature value = 263
- Chamber Temperature value = 263
- Chamber Temperature value = 262
- Chamber Temperature value = 261
- 
- Chamber Temperature value = 260
- Chamber Temperature value = 259
- Chamber Temperature value = 259
- Chamber Temperature value = 258
- Chamber Temperature value = 258
- 
- Chamber Temperature value = 257
- Chamber Temperature value = 256
- Chamber Temperature value = 256
- Chamber Temperature value = 255
- Chamber Temperature value = 254
- 
- Chamber Temperature value = 253
- Chamber Temperature value = 253
- Chamber Temperature value = 252
- Chamber Temperature value = 251
- Chamber Temperature value = 250
- 
- 
- Chamber Temperature value = 250
- Chamber Temperature value = 249
- Chamber Temperature value = 248
- Chamber Temperature value = 247
- Chamber Temperature value = 247
- Chamber Temperature value = 246
- Chamber Temperature value = 245
- Chamber Temperature value = 240
- Chamber Temperature value = 240
- Chamber Temperature value = 239
- 
- Chamber Temperature value = 240
- Chamber Temperature value = 240
- Chamber Temperature value = 240
- Chamber Temperature value = 241
- Chamber Temperature value = 243
- 
- Chamber Temperature value = 242
- Chamber Temperature value = 244
- Chamber Temperature value = 245
- Chamber Temperature value = 247
- Chamber Temperature value = 248
- 
- Chamber Temperature value = 250
- Chamber Temperature value = 256
- Chamber Temperature value = 257
- Chamber Temperature value = 258
- Chamber Temperature value = 259
- 
- Chamber Temperature value = 260
- Chamber Temperature value = 261
- Chamber Temperature value = 260
- Chamber Temperature value = 261
- Chamber Temperature value = 261
- Chamber Temperature value = 261
- Chamber Temperature value = 262
- Chamber Temperature value = 262
- Chamber Temperature value = 262
- Chamber Temperature value = 262
- Chamber Temperature value = 262
- Chamber Temperature value = 261
- Chamber Temperature value = 262
- Chamber Temperature value = 253
- Chamber Temperature value = 249
- 
- Chamber Temperature value = 247
- Chamber Temperature value = 241
- Chamber Temperature value = 240
- Chamber Temperature value = 240
- Chamber Temperature value = 231
- Chamber Temperature value = 222
- Chamber Temperature value = 220
- Chamber Temperature value = 220
- Chamber Temperature value = 217
- Chamber Temperature value = 212
- Chamber Temperature value = 212
- Chamber Temperature value = 212
- Chamber Temperature value = 213
- Chamber Temperature value = 214
- Chamber Temperature value = 214
- Chamber Temperature value = 211
- Chamber Temperature value = 208
- Chamber Temperature value = 202
- Chamber Temperature value = 200
- Chamber Temperature value = 198
- 
- Chamber Temperature value = 199
- Chamber Temperature value = 199
- Chamber Temperature value = 199
- Chamber Temperature value = 200
- Chamber Temperature value = 200
- Chamber Temperature value = 201
- Chamber Temperature value = 200
- Chamber Temperature value = 195
- Chamber Temperature value = 190
- Chamber Temperature value = 188
- Chamber Temperature value = 187
- Chamber Temperature value = 187
- Chamber Temperature value = 187
- Chamber Temperature value = 186
- Chamber Temperature value = 184
- Chamber Temperature value = 181
- Chamber Temperature value = 182
- Chamber Temperature value = 183
- Chamber Temperature value = 183
- Chamber Temperature value = 184
- 
- Chamber Temperature value = 184
- Chamber Temperature value = 185
- Chamber Temperature value = 185
- Chamber Temperature value = 184
- Chamber Temperature value = 183
- Chamber Temperature value = 182
- Chamber Temperature value = 181
- Chamber Temperature value = 181
- Chamber Temperature value = 180
- Chamber Temperature value = 180
- Chamber Temperature value = 179
- Chamber Temperature value = 180
- Chamber Temperature value = 179
- Chamber Temperature value = 179
- Chamber Temperature value = 179
- Chamber Temperature value = 179
- Chamber Temperature value = 179
- Chamber Temperature value = 179
- Chamber Temperature value = 178
- Chamber Temperature value = 179
- 
- Chamber Temperature value = 179
- Chamber Temperature value = 179
- Chamber Temperature value = 178
- Chamber Temperature value = 178
- Chamber Temperature value = 178
- Chamber Temperature value = 177
- Chamber Temperature value = 177
- Chamber Temperature value = 178
- Chamber Temperature value = 178
- Chamber Temperature value = 177
- Chamber Temperature value = 177
- Chamber Temperature value = 177
- Chamber Temperature value = 176
- Chamber Temperature value = 176
- Chamber Temperature value = 176
- Chamber Temperature value = 176
- Chamber Temperature value = 175
- Chamber Temperature value = 176
- Chamber Temperature value = 176
- Chamber Temperature value = 175
- 
- Chamber Temperature value = 175
- Chamber Temperature value = 174
- Chamber Temperature value = 174
- Chamber Temperature value = 175
- Chamber Temperature value = 174
- Chamber Temperature value = 173
- Chamber Temperature value = 173
- Chamber Temperature value = 173
- Chamber Temperature value = 173
- Chamber Temperature value = 172
- Chamber Temperature value = 172
- Chamber Temperature value = 171
- Chamber Temperature value = 171
- Chamber Temperature value = 171
- Chamber Temperature value = 171
- Chamber Temperature value = 171
- Chamber Temperature value = 170
- Chamber Temperature value = 170
- Chamber Temperature value = 169
- Chamber Temperature value = 169
- 
- Chamber Temperature value = 169
- Chamber Temperature value = 168
- Chamber Temperature value = 168
- Chamber Temperature value = 168
- Chamber Temperature value = 168
- Chamber Temperature value = 167
- Chamber Temperature value = 167
- Chamber Temperature value = 166
- Chamber Temperature value = 166
- Chamber Temperature value = 165
- Chamber Temperature value = 165
- Chamber Temperature value = 165
- Chamber Temperature value = 165
- Chamber Temperature value = 164
- Chamber Temperature value = 163
- Chamber Temperature value = 163
- Chamber Temperature value = 162
- Chamber Temperature value = 162
- Chamber Temperature value = 162
- Chamber Temperature value = 162
- 
- Chamber Temperature value = 161
- Chamber Temperature value = 160
- Chamber Temperature value = 161
- Chamber Temperature value = 160
- Chamber Temperature value = 160
- Chamber Temperature value = 159
- Chamber Temperature value = 159
- Chamber Temperature value = 158
- Chamber Temperature value = 158
- Chamber Temperature value = 158
- Chamber Temperature value = 157
- Chamber Temperature value = 157
- Chamber Temperature value = 156
- Chamber Temperature value = 156
- Chamber Temperature value = 156
- Chamber Temperature value = 155
- Chamber Temperature value = 127
- Chamber Temperature value = 108
- Chamber Temperature value = 101
- Chamber Temperature value = 97
- 
- Chamber Temperature value = 95
- Chamber Temperature value = 93
- Chamber Temperature value = 91
- Chamber Temperature value = 90
- Chamber Temperature value = 89
- Chamber Temperature value = 88
- Chamber Temperature value = 87
- Chamber Temperature value = 86
- Chamber Temperature value = 85
- Chamber Temperature value = 85
- Chamber Temperature value = 84
- Chamber Temperature value = 84
- Chamber Temperature value = 83
- Chamber Temperature value = 82
- Chamber Temperature value = 81
- Chamber Temperature value = 80
- Chamber Temperature value = 80
- Chamber Temperature value = 79
- Chamber Temperature value = 79
- Chamber Temperature value = 78
- 
- Chamber Temperature value = 78
- Chamber Temperature value = 77
- Chamber Temperature value = 77
- Chamber Temperature value = 76
- Chamber Temperature value = 76
- Chamber Temperature value = 74
- Chamber Temperature value = 74
- Chamber Temperature value = 74
- Chamber Temperature value = 74
- Chamber Temperature value = 73
- Chamber Temperature value = 73
- Chamber Temperature value = 71
- Chamber Temperature value = 72
- Chamber Temperature value = 71
- Chamber Temperature value = 71
- Chamber Temperature value = 70
- Chamber Temperature value = 69
- Chamber Temperature value = 69
- Chamber Temperature value = 69
- Chamber Temperature value = 68
- 
- Chamber Temperature value = 69
- Chamber Temperature value = 69
- Chamber Temperature value = 70
- Chamber Temperature value = 70
- Chamber Temperature value = 70
-
- Chamber Temperature value = 68
- Chamber Temperature value = 69
-
- Chamber Temperature value = 68
-
-
-
-
-
-
- Chamber Temperature value = 57
-
-
-
-
- 
- Chamber Temperature value = 68
- Chamber Temperature value = 71
- Chamber Temperature value = 71
- Chamber Temperature value = 72
- Chamber Temperature value = 72
- Chamber Temperature value = 72
-
- Chamber Temperature value = 70
- Chamber Temperature value = 71
-
-
-
- Chamber Temperature value = 64
- Chamber Temperature value = 62
-
-
-
-
- Chamber Temperature value = 59
- 
-
-
-
-
-
-
- Chamber Temperature value = 60
-
- 
-
- Chamber Temperature value = 73
- Chamber Temperature value = 73
-
- Chamber Temperature value = 74
- Chamber Temperature value = 74
-
-
-
- Chamber Temperature value = 68
- Chamber Temperature value = 66
-
-
-
-
-
- Chamber Temperature value = 64
-
-
-
-
-
-
- 
- Chamber Temperature value = 64
-
- Chamber Temperature value = 78
- Chamber Temperature value = 79
- Chamber Temperature value = 80
- Chamber Temperature value = 81
-
-
-
- Chamber Temperature value = 72
- Chamber Temperature value = 72
- 
- Chamber Temperature value = 73
-
-
-
-
-
-
- Chamber Temperature value = 71
-
-
-
-
-
- 
- Chamber Temperature value = 80
- Chamber Temperature value = 88
-
-
-
- Chamber Temperature value = 79
- 
- Chamber Temperature value = 80
-
-
- Chamber Temperature value = 79
-
-
-
-
-
-
- Chamber Temperature value = 80
-
-
-
- 
- Chamber Temperature value = 95
-
-
-
- Chamber Temperature value = 89
- 
- Chamber Temperature value = 88
-
-
-
- Chamber Temperature value = 87
-
-
-
-
-
-
- Chamber Temperature value = 90
-
-
- 
- Chamber Temperature value = 105
-
-
-
- Chamber Temperature value = 98
- 
- Chamber Temperature value = 98
- Chamber Temperature value = 101
- Chamber Temperature value = 102
- Chamber Temperature value = 104
- Chamber Temperature value = 107
- 
- Chamber Temperature value = 109
- Chamber Temperature value = 112
- Chamber Temperature value = 114
- Chamber Temperature value = 117
- Chamber Temperature value = 119
- 
- 
- Chamber Temperature value = 122
- Chamber Temperature value = 125
- Chamber Temperature value = 127
- Chamber Temperature value = 130
- Chamber Temperature value = 133
- 
- Chamber Temperature value = 136
- Chamber Temperature value = 138
- Chamber Temperature value = 141
- Chamber Temperature value = 145
- Chamber Temperature value = 147
- 
- Chamber Temperature value = 150
- Chamber Temperature value = 153
- Chamber Temperature value = 156
- Chamber Temperature value = 159
- Chamber Temperature value = 162
- 
- Chamber Temperature value = 165
- Chamber Temperature value = 168
- Chamber Temperature value = 171
- Chamber Temperature value = 174
- Chamber Temperature value = 177
- 
- 
- Chamber Temperature value = 180
- Chamber Temperature value = 183
- Chamber Temperature value = 186
- Chamber Temperature value = 189
- Chamber Temperature value = 193
- 
- Chamber Temperature value = 195
- Chamber Temperature value = 199
- Chamber Temperature value = 201
- Chamber Temperature value = 205
- Chamber Temperature value = 208
- 
- Chamber Temperature value = 211
- Chamber Temperature value = 214
- Chamber Temperature value = 217
- Chamber Temperature value = 219
- Chamber Temperature value = 223
- 
- Chamber Temperature value = 225
- Chamber Temperature value = 229
- Chamber Temperature value = 232
- Chamber Temperature value = 235
- Chamber Temperature value = 237
- 
- 
- Chamber Temperature value = 241
- Chamber Temperature value = 244
- Chamber Temperature value = 247
- Chamber Temperature value = 251
- Chamber Temperature value = 257
- 
- Chamber Temperature value = 260
- Chamber Temperature value = 263
- Chamber Temperature value = 265
- Chamber Temperature value = 267
- Chamber Temperature value = 269
- 
- Chamber Temperature value = 270
- Chamber Temperature value = 272
- Chamber Temperature value = 272
- Chamber Temperature value = 274
- Chamber Temperature value = 274
- 
- Chamber Temperature value = 275
- Chamber Temperature value = 276
- Chamber Temperature value = 276
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- 
- 
- Chamber Temperature value = 277
- Chamber Temperature value = 278
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- Chamber Temperature value = 278
- 
- Chamber Temperature value = 278
- Chamber Temperature value = 278
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- 
- Chamber Temperature value = 277
- Chamber Temperature value = 277
- Chamber Temperature value = 278
- Chamber Temperature value = 276
- Chamber Temperature value = 275
- 
- Chamber Temperature value = 275
- Chamber Temperature value = 275
- Chamber Temperature value = 273
- Chamber Temperature value = 274
- Chamber Temperature value = 274
- 
- 
- Chamber Temperature value = 273
- Chamber Temperature value = 273
- Chamber Temperature value = 272
- Chamber Temperature value = 271
- Chamber Temperature value = 270
- 
- Chamber Temperature value = 270
- Chamber Temperature value = 270
- Chamber Temperature value = 269
- Chamber Temperature value = 268
- Chamber Temperature value = 268
- 
- Chamber Temperature value = 267
- Chamber Temperature value = 267
- Chamber Temperature value = 266
- Chamber Temperature value = 265
- Chamber Temperature value = 264
- 
- Chamber Temperature value = 264
- Chamber Temperature value = 263
- Chamber Temperature value = 262
- Chamber Temperature value = 262
- Chamber Temperature value = 261
- 
- 
- Chamber Temperature value = 260
- Chamber Temperature value = 259
- Chamber Temperature value = 258
- Chamber Temperature value = 258
- Chamber Temperature value = 258
- 
- Chamber Temperature value = 257
- Chamber Temperature value = 256
- Chamber Temperature value = 255
- Chamber Temperature value = 255
- Chamber Temperature value = 254
- 
- Chamber Temperature value = 254
- Chamber Temperature value = 252
- Chamber Temperature value = 252
- Chamber Temperature value = 252
- Chamber Temperature value = 251
- 
- Chamber Temperature value = 250
- Chamber Temperature value = 249
- Chamber Temperature value = 249
- Chamber Temperature value = 248
- Chamber Temperature value = 247
- 
- Chamber Temperature value = 247
- Chamber Temperature value = 246
- Chamber Temperature value = 245
- Chamber Temperature value = 240
- Chamber Temperature value = 239
- 
- Chamber Temperature value = 254
- Chamber Temperature value = 252
- Chamber Temperature value = 251
- Chamber Temperature value = 251
- Chamber Temperature value = 251
- 
- Chamber Temperature value = 251
- Chamber Temperature value = 250
- Chamber Temperature value = 247
- Chamber Temperature value = 235
- Chamber Temperature value = 213
- 
- Chamber Temperature value = 196
- Chamber Temperature value = 189
- Chamber Temperature value = 174
- Chamber Temperature value = 169
- Chamber Temperature value = 168
- 
- 
- Chamber Temperature value = 167
- Chamber Temperature value = 168
- Chamber Temperature value = 170
- Chamber Temperature value = 172
- Chamber Temperature value = 177
- Chamber Temperature value = 180
- Chamber Temperature value = 182
- Chamber Temperature value = 183
- Chamber Temperature value = 185
- Chamber Temperature value = 186
- Chamber Temperature value = 189
- Chamber Temperature value = 189
- Chamber Temperature value = 191
- Chamber Temperature value = 192
- Chamber Temperature value = 193
- Chamber Temperature value = 194
- Chamber Temperature value = 196
- Chamber Temperature value = 196
- Chamber Temperature value = 196
- Chamber Temperature value = 198
- 
- Chamber Temperature value = 198
- Chamber Temperature value = 199
- Chamber Temperature value = 199
- Chamber Temperature value = 200
- Chamber Temperature value = 200
- Chamber Temperature value = 201
- Chamber Temperature value = 201
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 203
- Chamber Temperature value = 202
- Chamber Temperature value = 203
- Chamber Temperature value = 202
- 
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 202
- Chamber Temperature value = 201
- Chamber Temperature value = 201
- Chamber Temperature value = 198
- Chamber Temperature value = 195
- Chamber Temperature value = 191
- Chamber Temperature value = 187
- Chamber Temperature value = 183
- Chamber Temperature value = 180
- Chamber Temperature value = 176
- Chamber Temperature value = 173
- Chamber Temperature value = 170
- Chamber Temperature value = 167
- Chamber Temperature value = 164
- Chamber Temperature value = 161
- Chamber Temperature value = 158
- Chamber Temperature value = 156
- 
- Chamber Temperature value = 153
- Chamber Temperature value = 151
- Chamber Temperature value = 149
- Chamber Temperature value = 149
- Chamber Temperature value = 144
- Chamber Temperature value = 133
- Chamber Temperature value = 125
- Chamber Temperature value = 121
- Chamber Temperature value = 118
- Chamber Temperature value = 116
- Chamber Temperature value = 115
- Chamber Temperature value = 114
- Chamber Temperature value = 114
- Chamber Temperature value = 115
- Chamber Temperature value = 114
- Chamber Temperature value = 113
- Chamber Temperature value = 114
- Chamber Temperature value = 114
- Chamber Temperature value = 114
- Chamber Temperature value = 114
- 
- Chamber Temperature value = 115
- Chamber Temperature value = 115
- Chamber Temperature value = 116
- Chamber Temperature value = 116
- Chamber Temperature value = 116
- Chamber Temperature value = 116
- Chamber Temperature value = 117
- Chamber Temperature value = 116
- Chamber Temperature value = 116
- Chamber Temperature value = 116
- Chamber Temperature value = 114
- Chamber Temperature value = 114
- Chamber Temperature value = 112
- Chamber Temperature value = 111
- Chamber Temperature value = 109
- Chamber Temperature value = 108
- Chamber Temperature value = 106
- Chamber Temperature value = 105
- Chamber Temperature value = 104
- Chamber Temperature value = 103
- 
- Chamber Temperature value = 101
- Chamber Temperature value = 100
- Chamber Temperature value = 105
- Chamber Temperature value = 104
- Chamber Temperature value = 103
- Chamber Temperature value = 102
- Chamber Temperature value = 102
- Chamber Temperature value = 100
- Chamber Temperature value = 100
- Chamber Temperature value = 99
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 98
- Chamber Temperature value = 100
- 
- Chamber Temperature value = 98
+/*
+  Blink
+  Turns on an LED on for one second, then off for one second, repeatedly.
+
+  Most Arduinos have an on-board LED you can control. On the Uno and
+  Leonardo, it is attached to digital pin 13. If you're unsure what
+  pin the on-board LED is connected to on your Arduino model, check
+  the documentation at http://www.arduino.cc
+
+  This example code is in the public domain.
+
+  modified 8 May 2014
+  by Scott Fitzgerald
+ */
+  const int SystemOnLED =  13;  //D13 the number of the LED pin
+  const int SystemOnSwitch = 6; //D6
+//Wednesday TRIAL:
+  const int Thermocouple = A1;  // Analog input pin that the potentiometer is attached to silmulate temprature sensor
+  const int Heater =  10;      //D10 the number of the LED pin 
+  const int AirPump =  5;  // D5 the number of the LED pin
+  int ChamberTemperature =0;
+  int LoopCounter =0;
+
+  int Blink,Blinkspeed=0,LongPressCounter=0;
+  int BATCHCOUNT =5, BatchCounter =0;
+  boolean SystemKeyRead();
+
+  
+// the setup function runs once when you press reset or power the board
+void setup() {
+  // initialize digital pin 13 as an output.
+  pinMode(SystemOnLED, OUTPUT);
+  pinMode(SystemOnSwitch,INPUT);
+
+  // Wednesday TRIAL:
+  pinMode(Heater, OUTPUT);
+  pinMode(AirPump, OUTPUT);
+  pinMode(Thermocouple, INPUT);
+  analogReference(EXTERNAL);
+  //pinMode(A1, INPUT);
+ 
+  Serial.begin(9600);
+}
+
+// the loop function runs over and over again forever
+void loop() 
+{
+  
+      if(SystemKeyRead())
+      {
+          Blink=1;
+          if(LongPressCounter >=10)
+          { 
+            Serial.println(" Long Press....Heater OFF !!!");
+            BatchCounter =0; Blink =0;
+            digitalWrite(SystemOnLED, HIGH);   // turn the LED on (HIGH is the voltage level)
+            //Wednesday TRIAL
+            digitalWrite(Heater, LOW);  
+          }else
+              {
+                  Serial.print("LongPressCounter else part: ");
+                  Serial.println(LongPressCounter);
+                  if(LongPressCounter++ >1){ Blink =0;  digitalWrite(SystemOnLED, LOW); }                
+              }
+      }else 
+          {
+            LongPressCounter = 0;
+            if(!Blink)
+            digitalWrite(SystemOnLED, LOW);    // turn the LED off by making the voltage LOW                
+          }
+      
+      if( Blink )
+      {
+          if(Blinkspeed % 2==0)
+            { 
+              digitalWrite(SystemOnLED, HIGH);
+             }else 
+                 {
+                    digitalWrite(SystemOnLED, LOW);
+                 }
+           if(Blinkspeed++ >=6)
+           {Blink=0; Blinkspeed=0;           
+           if(BatchCounter != BATCHCOUNT)
+           {
+              BatchCounter++;
+              Serial.print("BatchCounter incremented : ");
+           }else
+                {
+                 Serial.print("BatchCounter is : "); 
+                 Serial.println(BatchCounter);
+                 //Wednesday TRIAL
+                 Serial.println(" Heater is switched  ON !");
+                 digitalWrite(Heater, HIGH);
+                 BatchCounter =0;                         
+                }
+           }
+       }
+  
+  
+  //Wednesday TRIAL        
+  if(LoopCounter++ >=6)
+  {
+     LoopCounter =0;
+     ChamberTemperature = analogRead(Thermocouple);
+     Serial.print(" Chamber Temperature value = ");
+     Serial.println(ChamberTemperature); 
+  }
+   
+  if ( ChamberTemperature > 100 )
+  {
+    Serial.println(" Air pump is ON when Temp is greater than 100"); 
+    digitalWrite(AirPump, HIGH);
+  }
+
+
+       
+      delay(500);              // wait for a 500 millisecond
+}
+
+ boolean SystemKeyRead()
+ { int  SystemOn1,SystemOn2;
+   SystemOn1 = digitalRead(SystemOnSwitch);
+   delay(25);
+   SystemOn2 = digitalRead(SystemOnSwitch);
+   if( ! (SystemOn1 ||SystemOn2))
+   {
+    Serial.println("System Key pressed ON");
+    //digitalWrite(SystemOnLED, HIGH);
+    return HIGH;
+   }
+   else
+   return LOW;
+  }
